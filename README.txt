@@ -1,0 +1,1 @@
+Materi yang tercantum merupakan catatan pribadi ketika belajar dari platform DQLab

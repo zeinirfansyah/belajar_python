@@ -1,0 +1,3 @@
+Kita sedang belajar Python
+Tepatnya belajar memanipulasi berkas teks
+Memanipulasi berkas dengan Python sangatlah mudah!Sekarang kita belajar menulis dengan menggunakan PythonMenulis konten file dengan mode a (append).Sekarang kita belajar menulis dengan menggunakan PythonMenulis konten file dengan mode a (append). Sekarang kita belajar menulis dengan menggunakan Python Menulis konten file dengan mode a (append).
